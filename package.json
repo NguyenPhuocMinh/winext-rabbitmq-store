@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.8.0",
-    "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#bae215906b2fe6338a81ccf5520642b83c5fe017"
+    "winext": "git+https://github.com/NguyenPhuocMinh/winext.git#1244f8ca66816abbd18f9994633adefa54a4a3e7"
   },
   "devDependencies": {
     "eslint": "^7.29.0",
